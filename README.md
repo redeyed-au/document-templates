@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ragdata/media/master/project/redeyed-au/logo/256x256-Shield.png" alt="RedEyed Technologies" />
 
-[RedEyed Technologies<br />Document Templates Repository v-0.1.0](https://github.com/redeyed-au/.github-private/releases/tag/v-0.1.0)
+[RedEyed Technologies<br />Document Templates Repository](src)
 
 </h1>
 
@@ -11,6 +11,7 @@
 > _I've made this repository public to point out something that may not seem obvious at first, but which every denizen of GitHub who is also running their own business should find extremely handy ..._
 >
 > _It's not just code which benefits from being stored in a version-control system - there are a great many different types of business document that are right at home in a Git - or GitHub -Repository!_
+
 
 This particular repository contains Microsoft 365 Templates I use for business.
 
