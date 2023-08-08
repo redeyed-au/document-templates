@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/Ragdata/media/master/project/redeyed-au/logo/256x256-Shield.png" alt="RedEyed Technologies" />
 
-[RedEyed Technologies<br />Document Templates Repository v-0.1.0](https://github.com/redeyed-au/.github-private/releases/tag/v-0.1.0)
+[RedEyed Technologies<br />Document Templates Repository](src)
 
 </h1>
 
-## ⭐ [Project Overview](#-table-of-contents)
+## ⭐ [Project Overview]()
 
 > _I've made this repository public to point out something that may not seem obvious at first, but which every denizen of GitHub who is also running their own business should find extremely handy ..._
 >
@@ -18,9 +18,9 @@ If you find anything here that you think might be useful to you, you are welcome
 
 If you would like me to modify something here for you, I will gladly prepare a project proposal and quote you a fee for doing so.  If you need to ask anything, you can usually find me on the [RedEyed Community Discord Server](https://discord.gg/s6gZZUc67y). 
 
-[`^ Top`](#toc)
+[`^ Top`]()
 
-## 🚧 [Author / Maintainer](#toc)
+## 🚧 [Author / Maintainer]()
 
 <div align="center">
 
@@ -38,9 +38,9 @@ If you would like me to modify something here for you, I will gladly prepare a p
 
 </div>
 
-[`^ Top`](#toc)
+[`^ Top`]()
 
-## ⚖️ [License](#toc)
+## ⚖️ [License]()
 
 ![MIT](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)
 
@@ -52,7 +52,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[`^ Top`](#toc)
+[`^ Top`]()
 
 <div align="center">
 
